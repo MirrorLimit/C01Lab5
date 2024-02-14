@@ -8,3 +8,24 @@ node_modules/
 
 # misc
 .DS_Store
+quirknotes/backend/data/db/_mdb_catalog.wt
+quirknotes/backend/data/db/collection-0--8811692812355907683.wt
+quirknotes/backend/data/db/collection-2--8811692812355907683.wt
+quirknotes/backend/data/db/collection-4--8811692812355907683.wt
+quirknotes/backend/data/db/index-1--8811692812355907683.wt
+quirknotes/backend/data/db/index-3--8811692812355907683.wt
+quirknotes/backend/data/db/index-5--8811692812355907683.wt
+quirknotes/backend/data/db/index-6--8811692812355907683.wt
+quirknotes/backend/data/db/mongod.lock
+quirknotes/backend/data/db/sizeStorer.wt
+quirknotes/backend/data/db/storage.bson
+quirknotes/backend/data/db/WiredTiger
+quirknotes/backend/data/db/WiredTiger.lock
+quirknotes/backend/data/db/WiredTiger.turtle
+quirknotes/backend/data/db/WiredTiger.wt
+quirknotes/backend/data/db/WiredTigerHS.wt
+quirknotes/backend/data/db/diagnostic.data/metrics.2024-02-14T18-11-36Z-00000
+quirknotes/backend/data/db/diagnostic.data/metrics.interim
+quirknotes/backend/data/db/journal/WiredTigerLog.0000000001
+quirknotes/backend/data/db/journal/WiredTigerPreplog.0000000001
+quirknotes/backend/data/db/journal/WiredTigerPreplog.0000000002
