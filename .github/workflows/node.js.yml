@@ -39,6 +39,8 @@ jobs:
       - run: npm i
 
       - name: running server
-        run: npm run dev
+        run: npm run dev & #running in the background
+      - name: waiting for server setup
+        run: sleep 10s
       - name: running test
         run: npm test
