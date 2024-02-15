@@ -21,10 +21,9 @@ jobs:
     services:
       mongodb:
         image: mongo
-      ports: 
-        - 27017:27017
-      options:
-        --name mongodb
+        ports: 
+          - 27017:27017
+        options: --name mongodb
 
     strategy:
       matrix:
