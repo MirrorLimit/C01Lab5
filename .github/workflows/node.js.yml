@@ -38,8 +38,5 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm i
 
-      # Set the SERVER_URL environment variable based on GitHub Actions
-      - name: Set SERVER_URL for tests
-        run: echo "SERVER_URL=http://mongodb:4000" >> $GITHUB_ENV
-
+      - run: npm dev
       - run: npm test
