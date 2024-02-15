@@ -38,5 +38,6 @@ jobs:
           node-version: ${{ matrix.node-version }}
       - run: npm i
 
-      - run: npm run dev
+      - name: running server
+        - run: npm run dev
       - run: npm test
