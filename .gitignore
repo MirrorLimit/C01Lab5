@@ -29,3 +29,7 @@ quirknotes/backend/data/db/diagnostic.data/metrics.interim
 quirknotes/backend/data/db/journal/WiredTigerLog.0000000001
 quirknotes/backend/data/db/journal/WiredTigerPreplog.0000000001
 quirknotes/backend/data/db/journal/WiredTigerPreplog.0000000002
+quirknotes/backend/data/db/collection-0--5437718883949607535.wt
+quirknotes/backend/data/db/index-1--5437718883949607535.wt
+quirknotes/backend/data/db/diagnostic.data/metrics.2024-02-15T15-33-29Z-00000
+quirknotes/backend/data/db/journal/WiredTigerLog.0000000002
